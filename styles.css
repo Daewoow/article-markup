@@ -8,9 +8,17 @@
 }
 
 .header {
-    font-family:LucidaGrande-Bold;
-    font-size:42px;
-    color:rgba(0,0,0,0.84);
-    text-align:left;
-    line-height:44px;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif;
+    font-size: 42px;
+    color: rgba(0, 0, 0, 0.84);
+    text-align: left;
+    line-height: 44px;
+}
+
+p {
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+code {
+    font-family: "Courier New", monospace;
 }
